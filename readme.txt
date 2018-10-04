@@ -1,4 +1,4 @@
-DeepCon18 Word Embeddings Methods Workshop
+# DeepCon18 Word Embeddings Methods Workshop
 
 State of the art Method  : Bag of Words and Tf-idf
 
