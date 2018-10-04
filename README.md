@@ -4,7 +4,7 @@ State of the art Method  : Bag of Words and Tf-idf
 
 New Method : One Hot Encoding
 
-Word Embeddings Methods : Word2vec and FastText
+Word Embedding Methods : Word2vec and FastText
 
 
 Dataset : [3000 Turkish Tweets for sentiment analysis (3 classes)](http://www.kemik.yildiz.edu.tr/?id=28)
