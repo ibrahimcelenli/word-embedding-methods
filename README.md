@@ -9,7 +9,7 @@ Word Embedding Methods : Word2vec and FastText
 
 Dataset : [3000 Turkish Tweets for sentiment analysis (3 classes)](http://www.kemik.yildiz.edu.tr/?id=28)
 
-Dataset : <a href="http://www.kemik.yildiz.edu.tr/?id=28"> 3000 Turkish Tweets for sentiment analysis (3 classes) </a>
+Dataset : <a href="http://www.kemik.yildiz.edu.tr/?id=28", target="_blank"> 3000 Turkish Tweets for sentiment analysis (3 classes) </a>
 
 
 Libraries : 
