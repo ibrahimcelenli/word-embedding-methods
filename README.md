@@ -30,4 +30,5 @@ Libraries :
             progressbar2              3.34.3
 
 
+Presentation : [Kelime Kalıplama (Word Embeddings) Yöntemleri](https://www.slideshare.net/HalilbrahimELENL/kelime-kalplama-word-embeddings-yntemleri)
 
